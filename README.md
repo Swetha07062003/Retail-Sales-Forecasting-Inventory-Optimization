@@ -188,7 +188,6 @@ Retail-Sales-Forecasting-Inventory-Optimization/
 │   ├── kpi_cards.png
 │   ├── actual_vs_predicted.png
 │   ├── inventory_recommendation.png
-│   
 │
 ├── notebooks/
 │   └── retail_forecasting.ipynb

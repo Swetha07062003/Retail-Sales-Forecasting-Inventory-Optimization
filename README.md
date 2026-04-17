@@ -188,7 +188,7 @@ Retail-Sales-Forecasting-Inventory-Optimization/
 │   ├── kpi_cards.png
 │   ├── actual_vs_predicted.png
 │   ├── inventory_recommendation.png
-│   └── github_repo.png
+│   
 │
 ├── notebooks/
 │   └── retail_forecasting.ipynb
@@ -312,9 +312,6 @@ Through this project, I learned:
 
 ---
 
-## Future Improvements
-
-This project can be further improved to make it closer to a real industry system.
 
 ### Planned Enhancements
 

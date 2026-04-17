@@ -174,7 +174,8 @@ Retail-Sales-Forecasting-Inventory-Optimization/
 │   └── streamlit_app.py
 │
 ├── data/
-│   └── retail_sales.csv
+│   └── raw/
+│       └── retail_sales_sample.csv
 │
 ├── models/
 │   └── retail_forecast_model.pkl
@@ -188,13 +189,21 @@ Retail-Sales-Forecasting-Inventory-Optimization/
 │   ├── kpi_cards.png
 │   ├── actual_vs_predicted.png
 │   ├── inventory_recommendation.png
+│   ├── github_repo.png
+│   └── final_dashboard.png
 │
-├── notebooks/
-│   └── retail_forecasting.ipynb
+├── src/
+│   ├── data_preprocessing.py
+│   ├── feature_engineering.py
+│   ├── inventory_logic.py
+│   ├── train_model.py
+│   └── visualize.py
 │
 ├── README.md
 ├── requirements.txt
-└── .gitignore
+├── .gitignore
+└── main.py
+
 ```
 
 ---
